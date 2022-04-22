@@ -1,0 +1,41 @@
+/* Pancakes */
+#pancake-header, #pancake-header2 {
+    background-color:rgb(210, 180, 140);
+    text-align:center;
+    font-family: "Times New Roman", sans-serif;
+}
+
+
+
+
+/* Pulled Pork */
+
+
+
+
+
+/* Oatmeal Cookies */
+
+
+
+
+
+
+/* Main Page */
+#main-title {
+    background-color:black;
+    color:rgb(255, 126, 143);
+    text-align:center;
+}
+
+.button1 {
+    background-color:rgb(82, 250, 124);
+}
+
+.button2 {
+    background-color:rgb(177, 94, 255);
+}
+
+.button3 {
+    background-color:rgb(112, 243, 243);
+}
